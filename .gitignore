@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+onTitle.ipynb
+Daesoo_Lee_lab6.ipynb
